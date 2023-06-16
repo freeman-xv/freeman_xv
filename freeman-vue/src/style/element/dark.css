@@ -1,0 +1,46 @@
+/* 折叠菜单 */
+html.dark .el-submenu__title {
+  background-color: #121212;
+  color: #fff;
+}
+
+html.dark .el-submenu__title:hover {
+  background-color: #18222b;
+}
+
+html.dark .el-menu--inline {
+  background-color: #121212;
+  color: #fff;
+}
+
+html.dark .el-menu {
+  background-color: #121212;
+  color: #fff;
+}
+
+html.dark .el-menu-item.is-active {
+  color: var(--el-color-primary);
+}
+
+html.dark .el-menu-item {
+  background-color: #121212;
+  color: #fff;
+}
+
+html.dark .el-menu-item:hover {
+  background-color: #18222b;
+}
+
+/* 标签页 */
+html.dark .el-card {
+  background-color: #121212;
+}
+
+html.dark .el-tabs {
+  background-color: #121212;
+}
+
+/* 自定义背景颜色 */
+html.dark .freeman-background-color{
+  background-color: #121212;
+}

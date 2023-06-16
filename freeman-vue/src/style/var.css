@@ -1,0 +1,9 @@
+:root {
+  --free-background-color: #ffffff;
+  --free-font-color: #121212;
+}
+
+html.dark {
+  --free-background-color: #121212;
+  --free-font-color: #ffffff;
+}
